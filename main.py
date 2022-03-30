@@ -10,7 +10,11 @@ def main():
     for item in mylist:
       print(item)
 
-    
+def swapList(newList):
+  newList[0], newList[-1] = newList[-1], newList[0]
+  return newList
+
+newList = mylist
     ###### NOTHING ELSE SHOULD GO IN main(), JUST THE ABOVE 3 LINES OF CODE ######
 
 # https://codefather.tech/blog/if-name-main-python/
