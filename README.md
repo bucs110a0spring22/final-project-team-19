@@ -9,7 +9,7 @@
 
 << [link to demo presentation slides](#) >>
 
-### Team: << team name >>
+### Team: << Oversize Collection >>
 #### << Archit Kothari, Daniel Monaghan, Ian Avery >>
 
 ***
