@@ -16,13 +16,13 @@
 
 ## Project Description *(Software Lead)*
 
-<< Give an overview of your project >>
+<< Our project will build a population genetics simulator to model the evolution of a species >>
 
 ***    
 
 ## User Interface Design *(Front End Specialist)*
 
-* << A wireframe or drawing of the user interface concept along with a short description of the interface. You should have one for each screen in your program. >>
+* <<[IMG_9858](IMG_9858.jpg)>>
     * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
 * << You should also have a screenshot of each screen for your final GUI >>
 
