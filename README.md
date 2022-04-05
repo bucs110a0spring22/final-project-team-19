@@ -1,16 +1,16 @@
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 # CS110 Project Proposal
-# << Project Title >>
+# << Oversize Collection >>
 ## CS 110 Final Project
-### << Semester, Year >>
+### << Spring, 2022 >>
 ### [Assignment Description](https://docs.google.com/document/d/1H4R6yLL7som1lglyXWZ04RvTp_RvRFCCBn6sqv-82ps/edit#)
 
 << [repl](#) >>
 
 << [link to demo presentation slides](#) >>
 
-### Team: << team name >>
-#### << Team Members >>
+### Team: << Oversize Collection >>
+#### << Archit Kothari, Daniel Monaghan, Ian Avery >>
 
 ***
 
