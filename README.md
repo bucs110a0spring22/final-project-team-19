@@ -7,7 +7,7 @@
 
 << [repl](#) >>
 
-<< [link to demo presentation slides](#) >>
+<<https://docs.google.com/presentation/d/1-bykSPaUVIgDXz2jRKWtOZYB48KUwha_ZESiY-4zgt4/edit?usp=sharing>> 
 
 ### Team: << Oversize Collection >>
 #### << Archit Kothari, Daniel Monaghan, Ian Avery >>
