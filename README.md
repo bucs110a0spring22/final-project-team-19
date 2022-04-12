@@ -16,13 +16,14 @@
 
 ## Project Description *(Software Lead)*
 
-<< Our project will build a population genetics simulator to model the evolution of a species >>
+<< Our project will be a choose your own adventure set in slasher-type setting. Players will be able to choose from multiple characters and will have various tools and objects to be used on their journey.>>
 
 ***    
 
 ## User Interface Design *(Front End Specialist)*
 
-* <<[IMG_9858](IMG_9858.jpg)>>
+* <<<https://docs.google.com/presentation/d/1-bykSPaUVIgDXz2jRKWtOZYB48KUwha_ZESiY-4zgt4/edit?usp=sharing>>>
+    * The google slides presentation contains drafts of each screen for our game.
     * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
 * << You should also have a screenshot of each screen for your final GUI >>
 
@@ -31,10 +32,11 @@
 ## Program Design *(Backend Specialist)*
 
 * Non-Standard libraries
-    * << You should have a list of any additional libraries or modules used (pygame, request) beyond non-standard python. >>
-    * For each additional module you should include
-        * url for the module documentation
-        * a short description of the module
+    * << pygame, random>>
+    * pygame: https://www.pygame.org/docs/
+      * pygame is a collection of modules that allows people to make video games using a wide array of multimedia functionality.
+    * random: https://docs.python.org/3/library/random.html
+      * somewhat random number generator using various statistical distributions
 * Class Interface Design
     * << A simple drawing that shows the class relationships in your code (see below for an example). >>
         * ![class diagram](assets/class_diagram.jpg)
