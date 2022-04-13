@@ -65,6 +65,7 @@ The Project is broken down into the following file structure:
 ### Software Lead - Daniel Monaghan
 
 << Worked as integration specialist by... >>
+worked as integration specialist by keeping group meeting short and concise. Kept the group on track and made sure everyone knew what they were supposed to do. 
 
 ### Front End Specialist - Archit Kothari
 
