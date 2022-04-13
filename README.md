@@ -62,15 +62,15 @@ The Project is broken down into the following file structure:
 
    * You must outline the team member roles and who was responsible for each class/method, both individual and collaborative.
 
-### Software Lead - << name >>
+### Software Lead - Daniel Monaghan
 
 << Worked as integration specialist by... >>
 
-### Front End Specialist - << name >>
+### Front End Specialist - Archit Kothari
 
-<< Front-end lead conducted significant research on... >>
+Different code layouts and examples for this type of program.  Also did research on different coding techniques by which we can use to make the program run as best as possible.
 
-### Back End Specialist - << name >>
+### Back End Specialist - Ian Avery
 
 << The back end specialist... >>
 
