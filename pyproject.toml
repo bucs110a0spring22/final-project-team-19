@@ -7,6 +7,7 @@ authors = ["danielm179 <<>>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 pygame = "^2.1.2"
+turtl = "^0.1.1"
 
 [tool.poetry.dev-dependencies]
 
