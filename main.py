@@ -2,7 +2,8 @@ import pygame
 import sys
 import controller
 import turtle as pongball
-import timer
+import threading
+import time
 #import your controller
 
 pygame.init()
@@ -23,14 +24,14 @@ while True:
     if ev.type == pygame.QUIT:
       pygame.quit()
     if ev.type == pygame.MOUSEBUTTONDOWN:
-      if width/2 <= mouse[0] <= width/2+140 and height/2 <=         mouse[1] <= height/2+40: 
-                pygame.quit()
+      if width/2 <= mouse[0] <= width/2+140 and height/2 <= mouse[1] <= height/2+40: 
+        pygame.quit()
 
     window=pongball.Screen()
     window.title("Meta-Pong")
     window.bgcolor("green")
-    window.setup(width=720,height=720)
-    window.tracer(0)
+    window.setup(width=width, height=height)
+    
     
 def main():
     pygame.init()
