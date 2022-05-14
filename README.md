@@ -12,6 +12,9 @@
 ### Team: << Oversize Collection >>
 #### << Archit Kothari, Daniel Monaghan, Ian Avery >>
 
+
+The project was about 70 % complete when both of my groupmates decided to drop this class so the final product is me trying to clean up what was left.
+
 ***
 
 ## Project Description *(Software Lead)*
@@ -50,9 +53,11 @@ The Project is broken down into the following file structure:
 
 * main.py
 * src
-    * <all of your python files should go here>
+    * Balls.py
+    * controller.py
+    * Rectangle.py
 * assets
-    * <all of your media, i.e. images, font files, etc, should go here)
+    * IMG_9858.jpg
 * etc
     * <This is a catch all folder for things that are not part of your project, but you want to keep with your project. Your demo video should go here.>
 
@@ -73,12 +78,11 @@ Different code layouts and examples for this type of program.  Also did research
 
 ### Back End Specialist - Ian Avery
 
-<< The back end specialist... >>
+Left the class
 
 ## Testing *(Software Lead)*
 
-* << Describe your testing strategy for your project. >>
-    * << Example >>
+* went line by line in order to test how each operated
 
 ## ATP
 
